@@ -1,0 +1,17 @@
+{
+  "description": "Removes the app grid spring animation.",
+  "name": "No Spring",
+  "shell-version": [
+    "3.16",
+    "3.18",
+    "3.20",
+    "3.22",
+    "3.24",
+    "3.26"
+  ],
+  "uuid": "no-spring@rockon999.github.io",
+  "settings-schema": "org.gnome.shell.extensions.no-spring",
+  "version": 2,
+  "gettext-domain": "no-spring",
+  "url": "http://github.com/rockon999/no-spring/"
+}

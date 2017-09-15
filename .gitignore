@@ -2,7 +2,8 @@ old_files/
 styles/
 .vscode/
 .buildconfig
-*.json
+.eslintrc.json
+jsconfig.json
 *~
 .goutputstream*
 *#
